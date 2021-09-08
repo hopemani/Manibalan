@@ -10,7 +10,7 @@
                               ░░                                                                                                                            
 <pre>    
 
-<p style="background:black;"> 
+<p style="background-color:black;"> 
 dP     dP           oo       dP d8               8888ba.88ba                    oo dP                dP                   
 88     88                    88 88               88  `8b  `8b                      88                88                   
 88aaaaa88a .d8888b. dP       88 .P 88d8b.d8b.    88   88   88 .d8888b. 88d888b. dP 88d888b. .d8888b. 88 .d8888b. 88d888b. 
@@ -18,7 +18,7 @@ dP     dP           oo       dP d8               8888ba.88ba                    
 88     88  88.  .88 88 dP    88    88  88  88    88   88   88 88.  .88 88    88 88 88.  .88 88.  .88 88 88.  .88 88    88 
 dP     dP  `88888P8 dP 88    dP    dP  dP  dP    dP   dP   dP `88888P8 dP    dP dP 88Y8888' `88888P8 dP `88888P8 dP    dP 
                        .P                                                                                                 
-<p> 
+</p> 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Manibalan</h1>
 <h3 align="center">A passionate developer from India</h3>
