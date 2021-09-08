@@ -33,3 +33,14 @@
 [![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+
+<h3>my weekly development breakdown</h3>
+
+<!--START_SECTION:waka-->
+```text
+Vue.js       7 hrs 54 mins   ██████████████████████▓░░   90.98 % 
+JavaScript   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+```
+<!--END_SECTION:waka-->
